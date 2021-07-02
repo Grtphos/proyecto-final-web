@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<articulos>
+<articulo>
+<id>1</id>
+<idArticulo>1</idArticulo>
+<nombre>Seleccionadora de Nuez</nombre>
+<precio>120,000</precio>
+</articulo>
+</articulos>
